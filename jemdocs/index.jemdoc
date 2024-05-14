@@ -2,6 +2,19 @@
 = Qiu Jinhang
 [jinhangqiu@u.nus.edu]
 
+~~~
+{}{img_left}{./imgs/photo.jpg}{Jacob Mattingley}{120px}{160px}{}{raw}
+
+  
+  Qiu Jinhang \n
+  Undergraduate \n
+  [https://www.comp.nus.edu.sg/ School of Computing, National University of Singapore] \n
+  [./files/CV.pdf Curriculem Vitae(CV)] \n
+  His github homepage is ~{{<a href="https://github.com/TingdiRen" target="&lt;u&gt;blank" title="github" style="text-decoration:none;"><img src="../imgs/github.svg" alt="" height="19px"></a>}}.
+  
+
+~~~
+
 jemdoc is a light text-based markup language designed for creating 
 websites. It takes a text file written with [example.html jemdoc markup], an
 optional configuration file and an optional menu file, and makes static websites
@@ -48,8 +61,3 @@ WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 PARTICULAR PURPOSE. See the [http://www.gnu.org/licenses/gpl-3.0.html GNU
 General Public License] for more details.
 
-~~~
-{}{img_left}{https://jemnz.com/jacobm2.png}{Jacob Mattingley}{120px}{160px}{https://www.baidu.com}{}{raw}
-Tingdi Ren  {{<img src="../imgs/china.svg" height="13px">}} ~~ [../files/CV.pdf Curriculem Vitae(CV)] \n
-His github homepage is ~{{<a href="https://github.com/TingdiRen" target="&lt;u&gt;blank" title="github" style="text-decoration:none;"><img src="../imgs/github.svg" alt="" height="19px"></a>}}.
-~~~
