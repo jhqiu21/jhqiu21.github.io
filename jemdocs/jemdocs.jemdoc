@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{jemdocs.html}, showsource
+= How to Design web Pages in Jemdoc
+
+== Step
+~~~
+. Download and install Python 2.3 or later compatible with your OS.
+. Download [scripts/jemdoc.py jemdoc.py(v0.7.3)]. and copy it inside your working directory.
+. You can download example css file and copy it inside your working dierectory, you also can costomize your favorite style file.
+. Now you can start editing your basic html file. see example page and menu file which i provided for the first page.
+. Type +jemdoc.py filename.jemdoc+ in command prompt inside your working directory to compile your markup htm file.
+. Visit jemdoc [http://jemdoc.jaboc.net/ website] for further information
+~~~
